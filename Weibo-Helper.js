@@ -4,7 +4,7 @@
 // @version      0.9.10
 // @description  功能1️⃣：微博风暴(☢️除非关闭，无法停止)；
 // @author       mefengl
-// @match        https://weibo.com/u/7752747770
+// @match        https://weibo.com/u/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=weibo.com
 // @grant        none
 // ==/UserScript==
