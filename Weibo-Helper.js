@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         🦁微博助手
 // @namespace    https://github.com/mefengl
-// @version      0.9.10
-// @description  功能1️⃣：微博风暴(☢️除非关闭，无法停止)；
+// @version      0.9.11
+// @description  功能1️⃣：微博风暴；
 // @author       mefengl
 // @match        https://weibo.com/u/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=weibo.com
