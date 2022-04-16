@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         🦁微博助手
 // @namespace    https://github.com/mefengl
-// @version      0.9.11
+// @version      0.10.1
 // @description  功能1️⃣：微博风暴；
 // @author       mefengl
 // @match        https://weibo.com/u/*
