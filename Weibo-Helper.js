@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         🦁微博助手
 // @namespace    https://github.com/mefengl
-// @version      0.10.1
+// @version      0.10.2
 // @description  功能1️⃣：微博风暴；
 // @author       mefengl
 // @match        https://weibo.com/u/*
@@ -13,7 +13,8 @@
   "use strict";
   window.addEventListener("load", function () {
     this.setInterval(() => {
-      isInputMode() ? null : sendButton().click();
+      if (isInputMode()) return;
+      sendButton().click();
     }, 3000);
   });
 })();
